@@ -2,6 +2,7 @@
 # Code Editor Backend
 
 https://cometk.onrender.com/
+(first time req will take some time to start the server)
  
 ## PostMan Documentation
 
